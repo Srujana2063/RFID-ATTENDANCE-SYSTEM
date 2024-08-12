@@ -1,11 +1,8 @@
-RFID-ATTENDANCE-SYSTEM
-An integrated RFID and camera-based attendance system automates tracking by using RFID tags and facial recognition. It ensures real-time, accurate data capture, minimal human intervention, and enhanced security. Integrated with data analytics, it provides insights, trend analysis, and predictive capabilities for efficient management.
-
 ## RFID and Camera-Based Attendance System with Head Count
 
 ## Project Overview
 
-The RFID and Camera-Based Attendance System is an innovative solution designed to automate the attendance tracking process in educational institutions and workplaces. This system leverages RFID technology and camera-based headcount verification to enhance accuracy, streamline record-keeping, and reduce manual intervention. By combining RFID with camera systems, this project ensures that attendance data is not only accurate but also secure and easy to manage.
+The RFID and Camera-Based Attendance System is an innovative solution designed to automate the attendance tracking process in educational institutions and workplaces.An integrated RFID and camera-based attendance system automates tracking by using RFID tags and facial recognition. It ensures real-time, accurate data capture, minimal human intervention, and enhanced security. Integrated with data analytics, it provides insights, trend analysis, and predictive capabilities for efficient management. This system leverages RFID technology and camera-based headcount verification to enhance accuracy, streamline record-keeping, and reduce manual intervention. By combining RFID with camera systems, this project ensures that attendance data is not only accurate but also secure and easy to manage.
 
 ## Key Features
 
